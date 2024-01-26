@@ -1,24 +1,22 @@
-
-.content{
-    font-family: Georgia,serif;
-    text-align: center;
-}
 img{
     display: block;
     margin: auto;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
 }
 #first{
     font-family: Georgia,serif;
     color: red;
+    text-align: center;
 }
 
 
 #second{
     text-align: center;
     word-wrap: break-word;
+    text-align: center;
 }
 #third{
     font-size: small;
+    text-align: center;
 }
