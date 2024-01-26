@@ -8,6 +8,7 @@ img{
     font-family: Georgia,serif;
     color: red;
     text-align: center;
+    margin-right: 300px;
 }
 
 
@@ -15,6 +16,7 @@ img{
     text-align: center;
     word-wrap: break-word;
     text-align: center;
+    margin-right: 300px;
 }
 #third{
     font-size: small;
